@@ -1,4 +1,4 @@
---I am creating a table called Friends 
+--I created a table called Friends and utilzied various DDl & DML commands to query the data.
 CREATE TABLE friends (
    id INTEGER,
    name TEXT,
